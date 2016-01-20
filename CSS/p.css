@@ -1,0 +1,36 @@
+p {
+    color: red;
+    text-align: center;
+}
+
+p.One {
+    color: green;
+    text-align: center;
+}
+p.Two {
+    color: blue;
+    text-align: center;
+}
+p.Three {
+    color: black;
+    text-align: center;
+}
+p.Four {
+    color: yellow;
+    text-align: center;
+}
+p.Five {
+    color: grey;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+}
+
+h3 {
+    text-align: right;
+}

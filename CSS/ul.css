@@ -1,0 +1,19 @@
+ul.a {
+    list-style-type: circle;
+    background: #3399ff;
+    padding: 20px;
+}
+
+ul.b {
+    list-style-type: square;
+    background: #009900;
+    padding: 20px;
+}
+
+ol.c {
+    list-style-type: upper-roman;
+}
+
+ol.d {
+    list-style-type: lower-alpha;
+}
